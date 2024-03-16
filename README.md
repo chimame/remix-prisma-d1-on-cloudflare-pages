@@ -1,6 +1,13 @@
-# Welcome to Remix + Vite!
+# Remix + Prisma + D1
 
-📖 See the [Remix docs](https://remix.run/docs) and the [Remix Vite docs](https://remix.run/docs/en/main/future/vite) for details on supported features.
+This is a sample program that uses Remix and D1 with Prisma that supports Edge Function.
+
+- [Remix](https://remix.run/)
+- [Vite](https://vitejs.dev/guide/)
+- [Prisma](https://www.prisma.io/)
+  - [Prisma ORM Support for Edge Functions is now in Preview](https://www.prisma.io/blog/prisma-orm-support-for-edge-functions-is-now-in-preview)
+- [Cloudflare D1](https://developers.cloudflare.com/d1/)
+- [Cloudflare Pages](https://developers.cloudflare.com/pages)
 
 ## Typegen
 
